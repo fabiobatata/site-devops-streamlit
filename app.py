@@ -41,10 +41,7 @@ if pagina == "🏗️ História do DevOps":
         - 📈 Feedback rápido e melhoria contínua
         """)
 
-    with col2:
-        img = Image.open("devops_symbol.png")
-        st.image(img, use_column_width=True, caption="Símbolo DevOps")
-
+    
 # Página 2 - Como Compilar Python
 elif pagina == "⚙️ Como Compilar Python":
     st.title("⚙️ Como funciona a compilação no Python")
