@@ -83,8 +83,8 @@ elif pagina == "🔄 Símbolo DevOps":
     🔁 Este ciclo nunca para, garantindo agilidade, qualidade e evolução constante dos sistemas.
     """)
 
-    img = Image.open("devops_symbol.png")
-    st.image(img, use_column_width=True, caption="Símbolo clássico do DevOps")
+   #img = Image.open("devops_symbol.png")
+   # st.image(img, use_column_width=True, caption="Símbolo clássico do DevOps")
 
 # Página 4 - DevOps vs SRE
 elif pagina == "🚀 DevOps vs SRE":
